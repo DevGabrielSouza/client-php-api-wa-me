@@ -9,7 +9,7 @@ Acessar: <a href="https://api-wa.me">api-wa.me</a>
 ## Installing via composer
 
 ```
-composer require DevGabrielSouza/client-php-api-wa-me
+composer require devgabrielsouza/client-php-api-wa-me
 ```
 
 ### EXAMPLES

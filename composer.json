@@ -1,8 +1,8 @@
 {
-  "name": "DevGabrielSouza/client-php-api-wa-me",
+  "name": "devgabrielsouza/client-php-api-wa-me",
   "description": "Classe PHP para comunicação com api-wa.me - Compatível com PHP 8.1",
   "type": "library",
-  "homepage": "https://github.com/DevGabrielSouza/client-php-api-wa-me",
+  "homepage": "https://github.com/devgabrielsouza/client-php-api-wa-me",
   "license": "MIT",
   "autoload": {
     "psr-4": {
@@ -16,7 +16,7 @@
   "authors": [
     {
       "name": "Gabriel Souza",
-      "email": "DevGabrielSouza@gmail.com"
+      "email": "devgabrielsouza@gmail.com"
     }
   ],
   "minimum-stability": "dev",
